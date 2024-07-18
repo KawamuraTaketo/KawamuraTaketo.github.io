@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.Card {
+    display: grid;
+    row-gap: 20px;
+  }
+  .Card > span {
+    align-self: end;
+    justify-self: end;
+  }
